@@ -42,6 +42,10 @@ src/screens/                     Home · Track · Play · Compete · You (+ hidd
 - The backend owns the schema; the frontend adapts in `supabaseApi.ts`.
 - The UI never computes MovePoints, ranks, streaks or eligibility. It renders what the API returns.
 - Navigation is frozen at five tabs. `/organiser/event/:eventId` is a hidden deep link.
+  
+## Demo Video
+
+https://github.com/user-attachments/assets/c21195e9-57bc-4ed9-8f7a-69fc8d176432
 
 ## Demo script
 
